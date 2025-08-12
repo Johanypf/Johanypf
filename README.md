@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Johanypf (Johany Pena)
 - 👨‍🎓 I'm Electronics Engineer
-- 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Data Engineer
-- 🇦🇺 I currently live in Brisbane,Austrlia
+- 👀 I’m interested in Artificial Intelligence
+- 📖 I currently Study Master in Artificial Intelligence
+- 🇨🇴 I currently live in Bogota,Colombia
 
 <!---
 Johanypf/Johanypf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
