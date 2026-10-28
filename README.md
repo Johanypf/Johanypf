@@ -1,54 +1,64 @@
+# Johany Peña Flórez · Sitio personal
 
-<!---
-Johanypf/Johanypf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Este repositorio de perfil ahora incluye una página web personal estática y responsive, lista para publicarse con **GitHub Pages**.
 
+## Perfil profesional
 
+Soy **Johany Peña Flórez (Johany)**, estudiante de **Maestría en Inteligencia Artificial**, con formación en **Ingeniería Electrónica**.
 
-# Hi there👋,Welcome!
+Me interesa aplicar **Inteligencia Artificial**, **redes neuronales** y soluciones basadas en datos para la **optimización de procesos industriales**.
 
-Hello 👋 My name is Johany. I am currently pursuing a **Master’s in Artificial Intelligence** with a background in **Electronic Engineering**. 
+## Stack tecnológico destacado
 
-I am deeply passionate about everything related to **Artificial Intelligence** and its potential to transform the world through data-driven solutions. 🚀
+- Python
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Pandas
+- Seaborn
+- NumPy
+- MySQL
+- PostgreSQL
+- Git
+- VS Code
 
----
+## Enlaces
 
-## 📈 Current Focus
-- 🧠 Deepening my knowledge in **AI** and **Neural Networks**.
-- 🏗️ Building projects that apply **Machine Learning** to industrial process optimization.
+- GitHub: https://github.com/johanypf
+- LinkedIn: https://www.linkedin.com/in/johany-pena-florez-0039a0a2
 
----
+## Proyectos destacados
 
-## 🛠 Tech Stack & Tools
+- [Chatboot_analitics](https://github.com/johanypf/Chatboot_analitics)
+- [Inventario_Dk](https://github.com/johanypf/Inventario_Dk)
+- [ODS_clasifier](https://github.com/johanypf/ODS_clasifier)
+- [ETL_DATA](https://github.com/johanypf/ETL_DATA)
+- [Streamlit_CL_IMG](https://github.com/johanypf/Streamlit_CL_IMG)
+- [SQL](https://github.com/johanypf/SQL)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/>
-</p>
+## Estructura del sitio
 
+- `/index.html` → estructura principal del sitio
+- `/styles.css` → estilos modernos, tema oscuro y responsive
+- `/script.js` → interacciones ligeras y animaciones accesibles
 
----
+## Ejecutar localmente
 
+Puedes abrir `index.html` directamente en el navegador, o levantar un servidor estático:
 
-<p align="left">
-  <a href="https://github.com/johanypf" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/johany-pena-florez-0039a0a2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+```bash
+cd /home/runner/work/Johanypf/Johanypf
+python -m http.server 8000
+```
 
----
+Luego visita: `http://localhost:8000`
 
+## Publicar con GitHub Pages
 
+1. Ve a **Settings > Pages** en este repositorio.
+2. En **Build and deployment**, selecciona:
+   - **Source:** Deploy from a branch
+   - **Branch:** `main`
+   - **Folder:** `/ (root)`
+3. Guarda los cambios y espera la publicación.
+4. Tu sitio quedará disponible en la URL de Pages del repositorio.
